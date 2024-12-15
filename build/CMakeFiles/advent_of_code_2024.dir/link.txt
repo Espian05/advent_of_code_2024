@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/advent_of_code_2024.dir/src/main.cpp.o -o advent_of_code_2024 

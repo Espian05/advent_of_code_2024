@@ -1,0 +1,4 @@
+/home/espian/random/advent_of_code_2024/build/CMakeFiles/advent_of_code_2024.dir
+/home/espian/random/advent_of_code_2024/build/CMakeFiles/inputs.dir
+/home/espian/random/advent_of_code_2024/build/CMakeFiles/edit_cache.dir
+/home/espian/random/advent_of_code_2024/build/CMakeFiles/rebuild_cache.dir

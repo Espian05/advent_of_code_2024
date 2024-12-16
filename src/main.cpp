@@ -13,11 +13,12 @@
 #include "include/day12.hpp"
 #include "include/day13.hpp"
 #include "include/day14.hpp"
-*/
 #include "include/day15.hpp"
+*/
+#include "include/day16.hpp"
 
 int main() {
-    Day15::run();
+    Day16::run();
 
     return 1;
 }

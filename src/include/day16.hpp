@@ -13,7 +13,7 @@ std::map<std::vector<int>, int> previous;
 
 std::map<std::pair<int, int>, bool> partOfPaths;
 
-int bestPathScore = 11047;
+int bestPathScore = 147628;
 
 int countSetBits(int n) {
     int total = 0;
@@ -221,7 +221,7 @@ std::pair<int, std::vector<std::pair<int, int>>> searchMaze(int x, int y, int di
 }
 
 void run() {
-    std::ifstream file("inputs/day16_test.txt");
+    std::ifstream file("inputs/day16.txt");
     std::string line;
 
     while (std::getline(file, line)) {

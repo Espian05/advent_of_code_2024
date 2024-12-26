@@ -130,7 +130,7 @@ void run() {
             unvisited.erase(unvisited.begin() + index);
         }
 
-    std::cout << "Shortest path is: " << graph[graph.size() - 1].dist << "\n";
+        std::cout << "Shortest path is: " << graph[graph.size() - 1].dist << "\n";
     }
 
     int byteN = 0;
